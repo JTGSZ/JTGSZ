@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @JTGSZ
-- 👀 I’m interested in working with you on your project if its cool to me
-- 🌱 I’m currently learning anything needed to work on your projects if its not boring to me
-- 💞️ I’m looking to collaborate on your projects and pass time coding as long as you participate
-- 📫 How to reach me JTGSZ#6921 on discord
+# 🌠 I'm a ok coder/artist/other things. Hello 👋
+
+- 🦎 I can work on any project, If you ask and its interesting to me.
+- 🌱 Learning things is simple enough, but isn't always fast.
+- 💞️ If you want to collaborate with me, or need grunt help feel free to ask me.
+- 📫 You can reach me normally at JTGSZ#6921 on discord
 
 <!---
 JTGSZ/JTGSZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
